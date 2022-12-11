@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url(asset/leaves.webp);
+}
+header{
+    background-color:darkseagreen;
+    height: 90px;
+  
+}.foto{
+    position: absolute;
+}.keterangan{
+    position: absolute;
+    left: 70px;
+    color:white;
+}
+li{
+    list-style: none;
+
+    
+}a{ 
+    text-decoration: none;
+    color: black;
+}ul :hover{
+    color: red;
+    font-size: 20px;
+    
+}
+nav{
+    padding: 0px 5px;
+    background-color: yellow;
+    height: 30px;
+}.daftar{
+    color: white;
+}.daftar li{
+    float: left;
+    padding: 0px 5px;
+    color: white;
+}
+main{
+
+    padding: 0px 20px;
+}
